@@ -27,17 +27,14 @@ After this lesson, you'll be able to
 
 ## Slides
 
-* Python Programming Intermediate
+@[gslides](1m7kCu-v4WfTUy5dRq8FqK-r0j206RWl0CVQNrDQF1TY)
 
 
 ## Assignments 
-* [Assignment 1] 
-* [Assignment 2] 
-* [Assignment 3] 
-* [Assignment 4] 
-* [Assignment 5] 
-* [Assignment 6] 
+* [Remove duplicate from following list](/lesson/fsdse-python-assignment-14)
+* [Manage Saving and Current account for user](/lesson/fsdse-python-assignment-6) 
 
+& many more inside commit.live.
 
 ## Resources & Post Reads
 
