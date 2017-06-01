@@ -31,7 +31,7 @@ After this lesson, you'll be able to
 
 ## Instructors code alongs
 
-[Intermediate python jupyter notebook]()
+[Intermediate python jupyter notebook](https://github.com/commit-live-students/intro-to-python-intermediate/blob/master/files/Python%20Programming%20-%20Intermediate.ipynb)
 
 
 ## Assignments 
