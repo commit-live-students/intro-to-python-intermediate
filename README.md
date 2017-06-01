@@ -29,6 +29,10 @@ After this lesson, you'll be able to
 
 @[gslides](1m7kCu-v4WfTUy5dRq8FqK-r0j206RWl0CVQNrDQF1TY)
 
+## Instructors code alongs
+
+[Intermediate python jupyter notebook]()
+
 
 ## Assignments 
 * [Remove duplicate from following list](/lesson/fsdse-python-assignment-14)
